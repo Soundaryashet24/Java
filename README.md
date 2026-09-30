@@ -23,3 +23,9 @@ This repository documents my continuous practice in Java and helps strengthen my
 ## Continuous Learning
 
 Continuously practicing Java and strengthening problem-solving skills.
+
+## 📌 Current Focus
+
+- Strengthening Core Java concepts
+- Practicing Data Structures and Algorithms
+- Improving problem-solving skills
