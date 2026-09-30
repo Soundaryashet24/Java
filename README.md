@@ -19,3 +19,7 @@ This repository contains my Java programming practice, covering core Java concep
 ## 🎯 Purpose
 
 This repository documents my continuous practice in Java and helps strengthen my programming, problem-solving, and data structure skills.
+
+## Continuous Learning
+
+Continuously practicing Java and strengthening problem-solving skills.
